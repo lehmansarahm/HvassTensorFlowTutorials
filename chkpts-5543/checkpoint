@@ -1,0 +1,4 @@
+model_checkpoint_path: "cifar100_cnn-3000"
+all_model_checkpoint_paths: "cifar100_cnn-1000"
+all_model_checkpoint_paths: "cifar100_cnn-2000"
+all_model_checkpoint_paths: "cifar100_cnn-3000"
